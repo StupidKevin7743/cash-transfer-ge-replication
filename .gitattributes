@@ -1,0 +1,12 @@
+*.do text eol=lf
+*.ado text eol=lf
+*.R text eol=lf
+*.md text eol=lf
+*.tex text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
+*.dta binary
+*.zip binary
+*.pdf binary
+*.docx binary
+*.xlsx binary

@@ -1,0 +1,22 @@
+name: Release privacy audit
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate-release:
+    name: Validate code-only release
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Run privacy and release audit
+        run: python3 tools/validate_release.py

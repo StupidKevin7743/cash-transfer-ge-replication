@@ -1,0 +1,51 @@
+cff-version: 1.2.0
+message: "Please cite the published article when using this replication code."
+title: "Code-only replication package for General Equilibrium Effects of Cash Transfers: Experimental Evidence From Kenya"
+type: software
+version: "1.0.0"
+date-released: "2026-09-30"
+abstract: >-
+  An independent, privacy-screened organization of the Stata and R code
+  distributed with the publisher's supporting information. No research data
+  or restricted GPS inputs are included.
+authors:
+  - family-names: Egger
+    given-names: Dennis
+  - family-names: Haushofer
+    given-names: Johannes
+  - family-names: Miguel
+    given-names: Edward
+  - family-names: Niehaus
+    given-names: Paul
+  - family-names: Walker
+    given-names: Michael
+repository-code: "https://github.com/StupidKevin7743/cash-transfer-ge-replication"
+keywords:
+  - cash transfers
+  - general equilibrium
+  - randomized controlled trial
+  - Kenya
+  - replication
+  - Stata
+  - R
+preferred-citation:
+  type: article
+  title: "General Equilibrium Effects of Cash Transfers: Experimental Evidence From Kenya"
+  authors:
+    - family-names: Egger
+      given-names: Dennis
+    - family-names: Haushofer
+      given-names: Johannes
+    - family-names: Miguel
+      given-names: Edward
+    - family-names: Niehaus
+      given-names: Paul
+    - family-names: Walker
+      given-names: Michael
+  journal: Econometrica
+  year: 2022
+  volume: "90"
+  issue: "6"
+  start: "2603"
+  end: "2643"
+  doi: 10.3982/ECTA17945
