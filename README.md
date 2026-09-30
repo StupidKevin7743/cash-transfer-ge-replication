@@ -1,4 +1,4 @@
-# General Equilibrium Effects of Cash Transfers: Analysis-Code Replication Package
+# Analysis-Code Replication: General equilibrium effects of cash transfers: experimental evidence from Kenya
 
 This repository is a privacy-screened, code-only packaging of the replication materials for:
 
